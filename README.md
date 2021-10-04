@@ -16,8 +16,10 @@ The images are first preprocessed and converted into grayscale images with dimen
  ```
  ### Result :
  Loss vs Epochs
+ 
  ![](https://github.com/M-NEXT/Memes-vs-Notes/blob/master/images/numpy1.png)
  
  Accuracy vs Epochs
- ![](https://github.com/M-NEXT/Memes-vs-Notes/tree/master/images/numpy2.png)
+ 
+ ![](https://github.com/M-NEXT/Memes-vs-Notes/blob/master/images/numpy2.png)
  
